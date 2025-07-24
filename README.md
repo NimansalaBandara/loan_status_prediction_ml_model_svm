@@ -35,9 +35,3 @@ After training, the model can predict loan approval (Yes/No) for new user inputs
 - Scikit-learn
 - Jupyter Notebook
 
-## 📦 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/loan-svm-model.git
-   cd loan-svm-model
